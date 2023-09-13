@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritamSarbajna%2FCoding-platforms-Solution&psig=AOvVaw0oSaKnsKlLOpc79Ulv-W_s&ust=1694699931839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjb393fp4EDFQAAAAAdAAAAABAE))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Okiljon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
