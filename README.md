@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Okiljon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<img align="right" src"[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsaumil11-coder&psig=AOvVaw3G0iqwdfzUbA7saATinz4i&ust=1694698896917000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCjpvDbp4EDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoder-gifs&psig=AOvVaw1ju5BzuDPIQnHNYM4JFttr&ust=1694699744940000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD6-oXfp4EDFQAAAAAdAAAAABAE)" alt="Coding" width="400"> 
+<img align="right" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoder-gifs&psig=AOvVaw1ju5BzuDPIQnHNYM4JFttr&ust=1694699744940000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD6-oXfp4EDFQAAAAAdAAAAABAE" alt="Coding" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okiljondadakhanov&label=Profile%20views&color=0e75b6&style=flat" alt="okiljondadakhanov" /> </p>
 
